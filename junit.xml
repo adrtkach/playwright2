@@ -1,0 +1,13 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="11.436">
+<testsuite name="shopping2.spec.js" timestamp="1644937924487" hostname="" tests="1" failures="0" skipped="0" time="10.83" errors="0">
+<testcase name="shopping" classname="[chromium] › shopping2.spec.js:14:1 › shopping" time="10.83">
+<system-out>
+
+[[ATTACHMENT|..\test-results\shopping2-shopping-chromium\a4956195193edeb128974e96e18f61a9.webm]]
+
+[[ATTACHMENT|..\test-results\shopping2-shopping-chromium\test-finished-1.png]]
+
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
